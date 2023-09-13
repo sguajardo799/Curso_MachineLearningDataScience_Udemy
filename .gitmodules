@@ -1,0 +1,3 @@
+[submodule "resources/python-ml-course"]
+	path = resources/python-ml-course
+	url = https://github.com/joanby/python-ml-course.git
